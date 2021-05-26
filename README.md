@@ -8,7 +8,7 @@
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/dariachi85/grid-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://dariachi85.github.io/grid-component/)
 
 ## My process
 
