@@ -7,7 +7,7 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/dariachi85/grid-component)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/mobile-first-responsive-site-using-grid-media-query-and-bem-K0f7q7p5q)
 - Live Site URL: [Add live site URL here](https://dariachi85.github.io/grid-component/)
 
 ## My process
